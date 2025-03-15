@@ -1,0 +1,16 @@
+# No bagels, please.
+bagel.exe
+*.bagel
+
+donut
+donut.exe
+*.exe
+*.obj
+*.o
+*.out
+*.log
+
+palette.png
+*.mp4
+
+private/
